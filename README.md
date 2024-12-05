@@ -5,15 +5,16 @@
 </div>
 
 <div align="center">
-  <img src="IMG-20230414-WA0026.jpg" alt="My Profile Picture or Logo" width="900" height="500">
+  <img src="IMG-20230414-WA0026.jpg" alt="My Profile Picture or Logo" width="300" height="400">
 </div>
 
 ## About Me
 
-- 🌱 **Biological Engineering Student** at the Universidad Nacional de Colombia, graduating in June 2025.  
-- 🌍 Passionate about **bioinformatics**, **data science**, and their applications in biological and food sciences.  
-- 🤝 Committed to learning, teamwork, and developing sustainable and innovative solutions.  
-- 🎓 Experienced in **laboratory techniques**, **food technology**, and **data analysis with Python**.  
+- 🔬🧬 **Biological Engineering Student** at the Universidad Nacional de Colombia.  
+- 🍎 I like food science and technology.
+- 🤓 My career has sparked an interest in bioinformatics and data science and I am excited to explore their potential to solve challenges in biology.
+
+
 
 ## Work Experience
 
