@@ -1,7 +1,7 @@
 # A Simple Biological Engineering Student
 
 <div align="center">
-<h1 align="center">Hello, I'm Sara Marimón Valverde 👋</h1>
+<h1 align="center">Hello, I'm Sara  Valverde h1>
 </div>
 
 <div align="center">
@@ -14,35 +14,6 @@
 - 🌍 Passionate about **bioinformatics**, **data science**, and their applications in biological and food sciences.  
 - 🤝 Committed to learning, teamwork, and developing sustainable and innovative solutions.  
 - 🎓 Experienced in **laboratory techniques**, **food technology**, and **data analysis with Python**.  
-
-## 🚀 Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>Protein Structure Analysis with NMR</h3>
-      <img src="https://github.com/your-username/your-repo/blob/main/project1.png" alt="Project Screenshot" width="300">
-    </td>
-    <td width="50%" align="center">
-      <p>Analyzed protein structures using Nuclear Magnetic Resonance to better understand their biological functions.</p>
-      <p>
-        📂 [Protein Structure Analysis Repository](https://github.com/your-username/protein-analysis)
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Food Product Development</h3>
-      <img src="https://github.com/your-username/your-repo/blob/main/project2.png" alt="Project Screenshot" width="300">
-    </td>
-    <td width="50%" align="center">
-      <p>Developed and optimized food formulations to improve shelf life and ensure quality standards.</p>
-      <p>
-        📂 [Food Development Repository](https://github.com/your-username/food-dev)
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## Work Experience
 
@@ -77,14 +48,4 @@
 - 📧 [Email](mailto:valverdesara18@gmail.com)  
 - 📂 [Published Article](https://www.tandfonline.com/doi/full/10.1080/10942912.2023.229346)  
 
----
-
-## GitHub Stats
-
-<p align="center">
-<a href="https://github.com/your-username">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
