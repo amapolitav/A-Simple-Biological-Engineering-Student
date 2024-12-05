@@ -1,7 +1,7 @@
 # A Simple Biological Engineering Student
 
 <div align="center">
-<h1 align="center">Hello, I'm Sara  Valverde h1>
+<h1 align="center">Hello, I'm Sara  Valverde>
 </div>
 
 <div align="center">
