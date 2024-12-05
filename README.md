@@ -4,10 +4,6 @@
 <h1 align="center">Hello, I'm Sara  Valverde
 </div>
 
-<div align="center">
-  <img src="vxccdfgh.mpg" alt="My Profile Picture or Logo" width="300" height="300">
-</div>
-
 ## About Me
 
 - 🔬🧬 **Biological Engineering Student** at the Universidad Nacional de Colombia.  
