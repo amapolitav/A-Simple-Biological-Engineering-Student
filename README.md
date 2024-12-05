@@ -35,7 +35,7 @@
 
 ## Education
 
-- **B.Sc. in Biological Engineering**, Universidad Nacional de Colombia (Expected June 2025)
+- **Biological Engineering**, Universidad Nacional de Colombia
 
 ## Interests
 
