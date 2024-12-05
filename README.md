@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://github.com/your-username/your-repo/blob/main/your](https://github.com/amapolitav/A-Simple-Biological-Engineering-Student/commit/e72d7a97aa1c2edd3ab15fc9cf1dad961301994c)-image.png" alt="My Profile Picture or Logo" width="900" height="500">
+  <img src="IMG-20230414-WA0026.jpg" alt="My Profile Picture or Logo" width="900" height="500">
 </div>
 
 ## About Me
