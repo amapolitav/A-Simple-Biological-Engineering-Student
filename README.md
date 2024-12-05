@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="IMG-20230414-WA0026.jpg" alt="My Profile Picture or Logo" width="300" height="300">
+  <img src="vxccdfgh.mpg" alt="My Profile Picture or Logo" width="300" height="300">
 </div>
 
 ## About Me
