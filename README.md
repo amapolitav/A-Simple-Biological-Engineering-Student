@@ -41,7 +41,7 @@
 
 | **Project Name**        | **Description**                                  | **Tools/Technologies Used**        | **Status**   |
 |------------------------ |--------------------------------------------------|------------------------------------|--------------|
-| sequence alignment      | Un programa para alinear dos secuencias de nucleótidos y contar sus diferencias.| Pycharm, Mega11, BLAST             | Completed    |
+| Sequence alignment      | Un programa para alinear dos secuencias de nucleótidos y contar sus diferencias.| Pycharm, Mega11, BLAST             | Completed    |
 | Example Project 2       |                                                  |                                    | In Progress  |
 | Example Project 3       |                                                  |                                    | Planned      |
 
