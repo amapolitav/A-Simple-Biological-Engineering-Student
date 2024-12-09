@@ -1,7 +1,7 @@
 # A Simple Biological Engineering Student
 
 <div align="center">
-<h1 align="center">Hello, I'm Sara  Valverde
+<h1 align="center">Hello, I'm Sara Valverde</h1>
 </div>
 
 ## About Me
@@ -10,7 +10,7 @@
 - 🍎 I like food science and technology.
 - 🤓 My career has sparked an interest in bioinformatics and data science and I am excited to explore their potential to solve challenges in biology.
 
-
+---
 
 ## Work Experience
 
@@ -29,9 +29,23 @@
 - Evaluated product behavior during storage, identifying improvements to extend shelf life.  
 - Operated lab equipment for quality control analyses, enhancing process precision.
 
+---
+
 ## Education
 
 - **Biological Engineering**, Universidad Nacional de Colombia
+
+---
+
+## Class Projects
+
+| **Project Name**       | **Description**                                  | **Tools/Technologies Used** | **Status**   |
+|------------------------|--------------------------------------------------|-----------------------------|--------------|
+| Example Project 1      | Brief description of the project.                | Python, Pandas              | Completed    |
+| Example Project 2      | Short description of another class project.      | R, ggplot2                  | In Progress  |
+| Example Project 3      | Description of a planned or ongoing project.     | MATLAB, Simulink            | Planned      |
+
+---
 
 ## Interests
 
@@ -39,10 +53,13 @@
 - Data science and machine learning for solving biological and engineering challenges.  
 - Sustainable innovations in food technology and biotechnology.  
 
+---
+
 ## Links
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/valverde-sara/)  
 - 📧 [Email](mailto:valverdesara18@gmail.com)  
 - 📂 [Published Article](https://www.tandfonline.com/doi/full/10.1080/10942912.2023.229346)  
+
 
 
