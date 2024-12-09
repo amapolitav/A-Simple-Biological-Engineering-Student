@@ -39,11 +39,11 @@
 
 ## Class Projects
 
-| **Project Name**       | **Description**                                  | **Tools/Technologies Used** | **Status**   |
-|------------------------|--------------------------------------------------|-----------------------------|--------------|
-| Example Project 1      | Brief description of the project.                | Python, Pandas              | Completed    |
-| Example Project 2      | Short description of another class project.      | R, ggplot2                  | In Progress  |
-| Example Project 3      | Description of a planned or ongoing project.     | MATLAB, Simulink            | Planned      |
+| **Project Name**        | **Description**                                  | **Tools/Technologies Used**        | **Status**   |
+|------------------------ |--------------------------------------------------|------------------------------------|--------------|
+| sequence alignment      | Un programa para alinear dos secuencias de nucleótidos y contar sus diferencias.| Pycharm, Mega11, BLAST             | Completed    |
+| Example Project 2       |                                                  |                                    | In Progress  |
+| Example Project 3       |                                                  |                                    | Planned      |
 
 ---
 
